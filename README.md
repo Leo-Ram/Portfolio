@@ -1,4 +1,2 @@
-# ensayo-web
-primera pagina web viculada con git
-## proposito
-desarrolar una web prototipo
+# Portfolio
+Aqui se encuentra una pagina web con informacion sobre mi. 
